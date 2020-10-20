@@ -1,0 +1,1 @@
+Ce répertoire regroupe les données présentées dans le chapitre 5. Les données sont réparties en deux sous-répertoires, correspondant aux sections 5.2 ("Une représentation pour les aggréger tous ?") et 5.3 ("Variations des paramètres").
